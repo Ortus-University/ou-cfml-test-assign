@@ -5,4 +5,4 @@ jobs:
   runs-on: ubuntu-latest
   steps:
    - uses: actions/checkout@v2
-   - uses: Ortus-University/ou-testbox-action@90a24f3f3478e4e8b43cf6e444810424237f7763
+   - uses: Ortus-University/ou-testbox-action@498ef071c7d53b66654b3282a07a930ff2856ff1
