@@ -4,4 +4,4 @@ jobs:
  check:
   runs-on: ubuntu-latest
   steps:
-   - uses: Ortus-University/ou-testbox-action@8734b6ba2f3c50bd1c8026e4ea9fce760d9f0e01
+   - uses: Ortus-University/ou-testbox-action@498ef071c7d53b66654b3282a07a930ff2856ff1
