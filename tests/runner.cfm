@@ -19,4 +19,4 @@
 <!---<cfparam name="url.coverageSonarQubeXMLOutputPath"	default="#expandPath( '/tests/results/SonarQubeCoverage.xml' )#">--->
 
 <!--- Include the TestBox HTML Runner --->
-<!---<cfinclude template="/testbox/system/runners/HTMLRunner.cfm" >--->
+<cfinclude template="/testbox/system/runners/HTMLRunner.cfm" >
