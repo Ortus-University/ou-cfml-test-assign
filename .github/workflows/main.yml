@@ -7,7 +7,7 @@ jobs:
    - name: Install sudo package
      run: apt update && apt install sudo
    - name: apt update
-     run: sudo apt update
+     run: sudo apt-get update
    - name: install curl
      run: sudo apt install curl
    - uses: actions/checkout@v2
