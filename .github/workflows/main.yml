@@ -4,11 +4,5 @@ jobs:
  check:
   runs-on: ubuntu-latest
   steps:
-   - name: Install sudo package
-     run: apt-get update && apt-get install sudo
-   - name: apt update
-     run: sudo apt-get update
-   - name: install curl
-     run: sudo apt-get install curl
    - uses: actions/checkout@v2
    - uses: Ortus-University/ou-testbox-action@main
