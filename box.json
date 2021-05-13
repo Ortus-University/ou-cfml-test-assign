@@ -6,6 +6,6 @@
         "testbox":"testbox/"
     },
     "testbox":{
-        "runner":"/tests/runner.cfm"
+        "runner":"http://localhost:8080/tests/runner.cfm"
     }
 }
